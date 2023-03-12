@@ -1,3 +1,5 @@
+package oving1;
+
 public class Rectangle {
     private int x1;
     private int y1;
